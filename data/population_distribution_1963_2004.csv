@@ -1,65 +1,65 @@
-District,Total,Rate,SEXR,Year,,,
-Kailahun District,"150,236",6.89,87,1963,,,
-Kenema District,"227,428",10.43,117,1963,,,
-Kono District,"167,915",7.70,118,1963,,,
-Bombali District,"198,776",9.12,85,1963,,,
-Kambia District,"137,806",6.32,92,1963,,,
-Koinadugu District,"129,061",5.92,93,1963,,,
-Port Loko District,"247,463",11.35,95,1963,,,
-Tonkolili District,"184,460",8.46,89,1963,,,
-Bo District,"209,754",9.62,104,1963,,,
-Bonthe District,"73,245",3.36,94,1963,,,
-Sherbro Urban District,"6,894",0.32,100,1963,,,
-Moyamba District,"167,425",7.68,94,1963,,,
-Pujehun District,"84,869",3.89,89,1963,,,
-Western Rural,"67,106",3.08,113,1963,,,
-Western Urban,"127,917",5.87,111,1963,,,
-SIERRA LEONE,"2,180,355",100,98,1963,,,
-Kailahun District,"180,365",6.59,92,1974,,,
-Kenema District,"266,636",9.75,105,1974,,,
-Kono District,"328,930",12.03,126,1974,,,
-Bombali District,"233,626",8.54,88,1974,,,
-Kambia District,"155,341",5.68,91,1974,,,
-Koinadugu District,"158,626",5.80,92,1974,,,
-Port Loko District,"292,244",10.68,93,1974,,,
-Tonkolili District,"206,321",7.54,91,1974,,,
-Bo District,"217,711",7.96,95,1974,,,
-Bonthe District,"80,606",2.95,95,1974,,,
-Sherbro Urban District,"6,955",0.25,96,1974,,,
-Moyamba District,"188,745",6.90,94,1974,,,
-Pujehun District,"102,741",3.76,90,1974,,,
-Western Rural,"40,065",1.46,105,1974,,,
-Western Urban,"276,247",10.10,112,1974,,,
-SIERRA LEONE,"2,735,159",100,99,1974,,,
-Kailahun District,"233,839",6.65,96,1985,,,
-Kenema District,"337,055",9.59,104,1985,,,
-Kono District,"389,657",11.08,112,1985,,,
-Bombali District,"317,729",9.04,92,1985,,,
-Kambia District,"186,231",5.30,91,1985,,,
-Koinadugu District,"183,286",5.21,92,1985,,,
-Port Loko District,"329,344",9.37,92,1985,,,
-Tonkolili District,"243,051",6.91,96,1985,,,
-Bo District,"268,671",7.64,97,1985,,,
-Bonthe District,"97,975",2.79,97,1985,,,
-Sherbro Urban District,"7,032",0.20,98,1985,,,
-Moyamba District,"250,514",7.13,94,1985,,,
-Pujehun District,"117,185",3.33,92,1985,,,
-Western Rural,"84,467",2.40,107,1985,,,
-Western Urban,"469,776",13.36,108,1985,,,
-SIERRA LEONE,"3,515,812",100,99,1985,,,
-Kailahun District,"358,190",7.20,94,2004,,,
-Kenema District,"497,948",10.01,102,2004,,,
-Kono District,"335,401",6.74,106,2004,,,
-Bombali District,"408,390",8.21,93,2004,,,
-Kambia District,"270,462",5.43,90,2004,,,
-Koinadugu District,"265,758",5.34,88,2004,,,
-Port Loko District,"453,746",9.12,88,2004,,,
-Tonkolili District,"347,197",6.98,87,2004,,,
-Bo District,"463,668",9.32,96,2004,,,
-Bonthe District,"129,947",2.61,93,2004,,,
-Sherbro Urban District,"9,740",0.20,88,2004,,,
-Moyamba District,"260,910",5.24,90,2004,,,
-Pujehun District,"228,392",4.59,93,2004,,,
-Western Rural,"174,249",3.50,95,2004,,,
-Western Urban,"772,873",15.53,98,2004,,,
-SIERRA LEONE,"4,976,871",100.,94,2004,,,
+District,Total,Rate,SEXR,Year
+Kailahun District,"150,236",6.89,87,1963
+Kenema District,"227,428",10.43,117,1963
+Kono District,"167,915",7.7,118,1963
+Bombali District,"198,776",9.12,85,1963
+Kambia District,"137,806",6.32,92,1963
+Koinadugu District,"129,061",5.92,93,1963
+Port Loko District,"247,463",11.35,95,1963
+Tonkolili District,"184,460",8.46,89,1963
+Bo District,"209,754",9.62,104,1963
+Bonthe District,"73,245",3.36,94,1963
+Sherbro Urban District,"6,894",0.32,100,1963
+Moyamba District,"167,425",7.68,94,1963
+Pujehun District,"84,869",3.89,89,1963
+Western Rural,"67,106",3.08,113,1963
+Western Urban,"127,917",5.87,111,1963
+SIERRA LEONE,"2,180,355",100,98,1963
+Kailahun District,"180,365",6.59,92,1974
+Kenema District,"266,636",9.75,105,1974
+Kono District,"328,930",12.03,126,1974
+Bombali District,"233,626",8.54,88,1974
+Kambia District,"155,341",5.68,91,1974
+Koinadugu District,"158,626",5.8,92,1974
+Port Loko District,"292,244",10.68,93,1974
+Tonkolili District,"206,321",7.54,91,1974
+Bo District,"217,711",7.96,95,1974
+Bonthe District,"80,606",2.95,95,1974
+Sherbro Urban District,"6,955",0.25,96,1974
+Moyamba District,"188,745",6.9,94,1974
+Pujehun District,"102,741",3.76,90,1974
+Western Rural,"40,065",1.46,105,1974
+Western Urban,"276,247",10.1,112,1974
+SIERRA LEONE,"2,735,159",100,99,1974
+Kailahun District,"233,839",6.65,96,1985
+Kenema District,"337,055",9.59,104,1985
+Kono District,"389,657",11.08,112,1985
+Bombali District,"317,729",9.04,92,1985
+Kambia District,"186,231",5.3,91,1985
+Koinadugu District,"183,286",5.21,92,1985
+Port Loko District,"329,344",9.37,92,1985
+Tonkolili District,"243,051",6.91,96,1985
+Bo District,"268,671",7.64,97,1985
+Bonthe District,"97,975",2.79,97,1985
+Sherbro Urban District,"7,032",0.2,98,1985
+Moyamba District,"250,514",7.13,94,1985
+Pujehun District,"117,185",3.33,92,1985
+Western Rural,"84,467",2.4,107,1985
+Western Urban,"469,776",13.36,108,1985
+SIERRA LEONE,"3,515,812",100,99,1985
+Kailahun District,"358,190",7.2,94,2004
+Kenema District,"497,948",10.01,102,2004
+Kono District,"335,401",6.74,106,2004
+Bombali District,"408,390",8.21,93,2004
+Kambia District,"270,462",5.43,90,2004
+Koinadugu District,"265,758",5.34,88,2004
+Port Loko District,"453,746",9.12,88,2004
+Tonkolili District,"347,197",6.98,87,2004
+Bo District,"463,668",9.32,96,2004
+Bonthe District,"129,947",2.61,93,2004
+Sherbro Urban District,"9,740",0.2,88,2004
+Moyamba District,"260,910",5.24,90,2004
+Pujehun District,"228,392",4.59,93,2004
+Western Rural,"174,249",3.5,95,2004
+Western Urban,"772,873",15.53,98,2004
+SIERRA LEONE,"4,976,871",100,94,2004
