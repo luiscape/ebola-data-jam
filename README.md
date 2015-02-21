@@ -1,0 +1,2 @@
+# Population Statistics from Sierra Leone
+Dataset with the 2004 census data from the Sierra Leone Bureau of Statistics. The data was scraper from a PDF resource available [here](http://www.sierra-leone.org/Census/ssl_final_results.pdf).
